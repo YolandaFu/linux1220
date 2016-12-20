@@ -1,0 +1,5 @@
+#! /bin/bash
+
+echo "Hi $LOGNAME,it's `date +%Y-%m-%d`!" >> /home/yolandafu/fy/12.6/result.txt
+exit
+
